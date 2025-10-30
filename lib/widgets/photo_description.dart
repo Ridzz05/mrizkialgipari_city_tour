@@ -21,7 +21,7 @@ class PhotoDescription extends StatelessWidget{
              ),
             ),    
           )
-        ],
+        ]
       ),
     ),
   }
